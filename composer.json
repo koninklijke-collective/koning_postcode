@@ -1,0 +1,31 @@
+{
+  "name": "koninklijke-collective/koning-postcode",
+  "description": "TYPO3 Extension: Dutch postcode check",
+  "type": "typo3-cms-extension",
+
+  "keywords": [
+    "TYPO3",
+    "CMS",
+    "Koning",
+    "Postcode",
+    "Check"
+  ],
+  "homepage": "https://github.com/koninklijke-collective/koning_postcode",
+  "license": "LGPL-3.0+",
+
+  "autoload": {
+    "psr-4": {
+      "Keizer\\KoningPostcode\\": "Classes/"
+    }
+  },
+
+  "version": "1.0.0",
+
+  "authors": [
+    {
+      "name": "Jesper Paardekooper",
+      "email": "jesper@koninklijk.io",
+      "homepage": "https://www.grandslam-media.nl"
+    }
+  ]
+}
